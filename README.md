@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently pursuing final year MCA in Bangalore <br>👯 I’m looking to develop my knowledge in the technical field <br>🌱 I’m currently seeking for opportunities to start my career path in the technical field <br>Like full stack developer, data analytics, data engineering <br>Going in trend and learning AI  | ML |
+🔭 I’m graduate MCA fresher<br>👯 I’m looking to develop my knowledge in the technical field <br>🌱 I’m currently seeking for opportunities to start my career path in the technical field <br>Like full stack developer, data analytics, data engineering <br>Going in trend and learning AI  | ML |
 
 
 ## 🌐 Socials:
