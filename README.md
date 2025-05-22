@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I’m graduate MCA fresher<br>👯 I’m looking to develop my knowledge in the technical field <br>🌱 I’m currently seeking for opportunities to start my career path in the technical field <br>Like full stack developer, data analytics, data engineering <br>Going in trend and learning AI  | ML |
+🔭 I’m hold MCA graduate.
+👯 I’m looking to expand my knowledge in the technical field.
+🌱 I’m currently seeking opportunities to begin my career as a Software Developer or Full Stack Developer.
+🚀 Staying up to date with trends and learning AI and ML.
 
 
 ## 🌐 Socials:
